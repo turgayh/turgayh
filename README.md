@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turgayh&layout=compact&hide=html" alt="turgayh" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=turgayh" alt="turgayh" /> </p>
